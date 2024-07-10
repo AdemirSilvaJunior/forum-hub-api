@@ -8,9 +8,7 @@ Este projeto tem como objetivo proporcionar uma experiência prática no desenvo
 Diferentemente do projeto anterior, onde os dados eram obtidos da API Gutendex, neste projeto todos os dados são gerados internamente. A API persiste os dados em um banco de dados MySQL usando o Spring Data JPA.
 
 ## Endpoints
-Os endpoints da API estão documentados no Swagger. Para acessar a documentação, execute o projeto e visite:
-
-http://localhost:8080/swagger-ui/index.html#/
+Os endpoints da API estão documentados no Swagger. Para acessar a documentação, execute o projeto e visite e site:
 
 Alguns dos endpoints disponíveis incluem:
 
